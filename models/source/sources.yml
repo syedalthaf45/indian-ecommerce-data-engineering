@@ -1,0 +1,12 @@
+version: 2
+sources:
+  - name: source
+    database: sales_analytics
+    schema: source
+    tables:
+      - name: products
+      - name: customers
+      - name: sales
+      
+
+  
